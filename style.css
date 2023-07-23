@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+
+*{
+    font-family: 'Cherry Bomb One', cursive;
+}
+.header{
+    padding: 0.75em;
+    background-color: #E4A11B;
+}
+.header p{
+    padding-left:10em;
+    padding-right:10em;
+    text-align: center;
+}
+textarea{
+    margin: 2em, 2em;
+    width: 100%;
+    padding: 1em;
+    font-size: 5em;
+    border: 2px solid black;
+}
